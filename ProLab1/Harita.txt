@@ -1,0 +1,18 @@
+Karakter:Stormtrooper,Kapi:A
+Karakter:DarthVader,Kapi:A
+Karakter:DarthVader,Kapi:B
+Karakter:Stormtrooper,Kapi:B
+Karakter:Stormtrooper,Kapi:D
+Karakter:Stormtrooper,Kapi:E
+Karakter:LukeSkywalker
+0	0	0	0	1	0	0	0	0	0	0	0	1	0
+0	1	1	1	1	0	1	1	1	1	1	1	1	0
+0	1	0	1	1	1	1	0	1	0	0	0	1	0
+0	1	0	1	1	0	1	0	1	1	0	1	1	0
+0	1	0	1	0	0	1	0	1	1	0	1	1	0
+1	1	0	1	1	1	1	0	1	0	0	0	1	1
+0	1	0	0	1	0	1	0	1	0	1	1	1	0
+0	1	0	1	1	1	1	1	1	0	0	0	1	0
+0	1	0	1	0	0	0	0	1	0	0	1	1	0
+0	1	1	1	1	1	1	1	1	1	1	1	1	1
+0	0	0	0	1	0	0	0	0	0	0	0	0	0
